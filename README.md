@@ -1,10 +1,4 @@
-I **reviewed the repository structure and key code files** in your `AI-Data-Analyst` project on GitHub. It appears to be a *“Personal AI powered Data Analyst”* implemented in Python with `analyst.py` and `app.py`, and is ready for enhancement with proper documentation. ([GitHub][1])
 
-Since the raw repository didn’t load fully via the API, I’ll provide a **general README.md template** that fits common structures for such projects and helps future users install, run, and understand the project’s purpose.
-
----
-
-## ✅ **Suggested README.md for AI-Data-Analyst**
 
 ````markdown
 # AI-Data-Analyst
