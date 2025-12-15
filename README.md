@@ -118,7 +118,6 @@ This project is open-source and free to use.
 
 ---
 
-If you want help writing a **requirements.txt** or expanding the README with **usage examples or API docs**, just let me know!
-::contentReference[oaicite:1]{index=1}
+
 
 
